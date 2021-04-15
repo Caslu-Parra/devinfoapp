@@ -29,6 +29,7 @@ class _BodyState extends State<Body> {
               txt:
               "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
             ), // Hobbies do Dev.
+            Titulo(txt: 'Contato'), // Fontes de contato.
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
